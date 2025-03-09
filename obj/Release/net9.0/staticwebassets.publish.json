@@ -1,0 +1,1753 @@
+{
+  "Version": 1,
+  "Hash": "ozbWJZjhy2RbaZXJt3khyd+YW8N9B7OCdJufwP6kDGM=",
+  "Source": "GoodsManagement",
+  "BasePath": "_content/GoodsManagement",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "GoodsManagement\\wwwroot",
+      "Source": "GoodsManagement",
+      "ContentRoot": "C:\\Users\\laptop\\source\\repos\\GoodsManagement\\wwwroot\\",
+      "BasePath": "_content/GoodsManagement",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\laptop\\source\\repos\\GoodsManagement\\obj\\Release\\net9.0\\compressed\\a0joakjdsj-ubvhlkj8og.gz",
+      "SourceId": "GoodsManagement",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\laptop\\source\\repos\\GoodsManagement\\obj\\Release\\net9.0\\compressed\\",
+      "BasePath": "_content/GoodsManagement",
+      "RelativePath": "index#[.{fingerprint=ubvhlkj8og}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\laptop\\source\\repos\\GoodsManagement\\wwwroot\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "xiopizqtbw",
+      "Integrity": "aeZDjUlYT7V6omp2OAGnzmzjVYO5PYl/Tkr9t9emrtA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\laptop\\source\\repos\\GoodsManagement\\wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\laptop\\source\\repos\\GoodsManagement\\obj\\Release\\net9.0\\compressed\\dy0ygmz9xi-i1edb6rlo7.gz",
+      "SourceId": "GoodsManagement",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\laptop\\source\\repos\\GoodsManagement\\obj\\Release\\net9.0\\compressed\\",
+      "BasePath": "_content/GoodsManagement",
+      "RelativePath": "app#[.{fingerprint=i1edb6rlo7}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\laptop\\source\\repos\\GoodsManagement\\wwwroot\\app.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "58beokf618",
+      "Integrity": "q3eRBHhzNC3UobOSnD86/ZxlM8z+Jey1DnQoe2buPP0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\laptop\\source\\repos\\GoodsManagement\\wwwroot\\app.js"
+    },
+    {
+      "Identity": "C:\\Users\\laptop\\source\\repos\\GoodsManagement\\obj\\Release\\net9.0\\compressed\\publish\\a0joakjdsj-ubvhlkj8og.br",
+      "SourceId": "GoodsManagement",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\laptop\\source\\repos\\GoodsManagement\\obj\\Release\\net9.0\\compressed\\publish\\",
+      "BasePath": "_content/GoodsManagement",
+      "RelativePath": "index#[.{fingerprint=ubvhlkj8og}]?.html.br",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\laptop\\source\\repos\\GoodsManagement\\wwwroot\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "br",
+      "Fingerprint": "qr334e1sv2",
+      "Integrity": "1sHyXkizC9gaXkOhxUQYSvK3BeSYjYgC8cS2hhO53nk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\laptop\\source\\repos\\GoodsManagement\\wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\laptop\\source\\repos\\GoodsManagement\\obj\\Release\\net9.0\\compressed\\publish\\dy0ygmz9xi-i1edb6rlo7.br",
+      "SourceId": "GoodsManagement",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\laptop\\source\\repos\\GoodsManagement\\obj\\Release\\net9.0\\compressed\\publish\\",
+      "BasePath": "_content/GoodsManagement",
+      "RelativePath": "app#[.{fingerprint=i1edb6rlo7}]?.js.br",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\laptop\\source\\repos\\GoodsManagement\\wwwroot\\app.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "br",
+      "Fingerprint": "8bjhe9ml9u",
+      "Integrity": "/FGFMw8SF2iWJzJYQZWpq+GX29S4L3s1M45ktq8QAF4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\laptop\\source\\repos\\GoodsManagement\\wwwroot\\app.js"
+    },
+    {
+      "Identity": "C:\\Users\\laptop\\source\\repos\\GoodsManagement\\obj\\Release\\net9.0\\compressed\\publish\\uc6rymsfig-ezaov6hku1.br",
+      "SourceId": "GoodsManagement",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\laptop\\source\\repos\\GoodsManagement\\obj\\Release\\net9.0\\compressed\\publish\\",
+      "BasePath": "_content/GoodsManagement",
+      "RelativePath": "styles#[.{fingerprint=ezaov6hku1}]?.css.br",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\laptop\\source\\repos\\GoodsManagement\\wwwroot\\styles.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "br",
+      "Fingerprint": "jg8ve4gqsr",
+      "Integrity": "beU89yGn52fYuTm9whUA4VGp7ZEdprGkVnFXEhcYnM0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\laptop\\source\\repos\\GoodsManagement\\wwwroot\\styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\laptop\\source\\repos\\GoodsManagement\\obj\\Release\\net9.0\\compressed\\uc6rymsfig-ezaov6hku1.gz",
+      "SourceId": "GoodsManagement",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\laptop\\source\\repos\\GoodsManagement\\obj\\Release\\net9.0\\compressed\\",
+      "BasePath": "_content/GoodsManagement",
+      "RelativePath": "styles#[.{fingerprint=ezaov6hku1}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\laptop\\source\\repos\\GoodsManagement\\wwwroot\\styles.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "ok2ain2dfn",
+      "Integrity": "eGb0MmXcdfbc5qBwv1HRy1GBmZDdzDJIBFe8cNj8ALY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\laptop\\source\\repos\\GoodsManagement\\wwwroot\\styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\laptop\\source\\repos\\GoodsManagement\\wwwroot\\app.js",
+      "SourceId": "GoodsManagement",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\laptop\\source\\repos\\GoodsManagement\\wwwroot\\",
+      "BasePath": "_content/GoodsManagement",
+      "RelativePath": "app#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "i1edb6rlo7",
+      "Integrity": "qsTm9E9ijwfHFILnBGbPE7rq4UZ4H91hgVFOUtpYOfo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\app.js"
+    },
+    {
+      "Identity": "C:\\Users\\laptop\\source\\repos\\GoodsManagement\\wwwroot\\index.html",
+      "SourceId": "GoodsManagement",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\laptop\\source\\repos\\GoodsManagement\\wwwroot\\",
+      "BasePath": "_content/GoodsManagement",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ubvhlkj8og",
+      "Integrity": "JhKc8Psb6GLDVkN092GgQQLulp+PAIe23snpwvO01w4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\laptop\\source\\repos\\GoodsManagement\\wwwroot\\styles.css",
+      "SourceId": "GoodsManagement",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\laptop\\source\\repos\\GoodsManagement\\wwwroot\\",
+      "BasePath": "_content/GoodsManagement",
+      "RelativePath": "styles#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ezaov6hku1",
+      "Integrity": "Zksl0xTapaH2lzSiWKSEQ4g3CAKCIGhxWFSAXHt2IPA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\styles.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "app.i1edb6rlo7.js",
+      "AssetFile": "C:\\Users\\laptop\\source\\repos\\GoodsManagement\\obj\\Release\\net9.0\\compressed\\dy0ygmz9xi-i1edb6rlo7.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000674763833"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1481"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"q3eRBHhzNC3UobOSnD86/ZxlM8z+Jey1DnQoe2buPP0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Mar 2025 08:05:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"qsTm9E9ijwfHFILnBGbPE7rq4UZ4H91hgVFOUtpYOfo=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "i1edb6rlo7"
+        },
+        {
+          "Name": "label",
+          "Value": "app.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qsTm9E9ijwfHFILnBGbPE7rq4UZ4H91hgVFOUtpYOfo="
+        }
+      ]
+    },
+    {
+      "Route": "app.i1edb6rlo7.js",
+      "AssetFile": "C:\\Users\\laptop\\source\\repos\\GoodsManagement\\obj\\Release\\net9.0\\compressed\\publish\\dy0ygmz9xi-i1edb6rlo7.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000804505229"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1242"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/FGFMw8SF2iWJzJYQZWpq+GX29S4L3s1M45ktq8QAF4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Mar 2025 08:05:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"qsTm9E9ijwfHFILnBGbPE7rq4UZ4H91hgVFOUtpYOfo=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "i1edb6rlo7"
+        },
+        {
+          "Name": "label",
+          "Value": "app.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qsTm9E9ijwfHFILnBGbPE7rq4UZ4H91hgVFOUtpYOfo="
+        }
+      ]
+    },
+    {
+      "Route": "app.i1edb6rlo7.js",
+      "AssetFile": "C:\\Users\\laptop\\source\\repos\\GoodsManagement\\wwwroot\\app.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5888"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qsTm9E9ijwfHFILnBGbPE7rq4UZ4H91hgVFOUtpYOfo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Mar 2025 08:05:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "i1edb6rlo7"
+        },
+        {
+          "Name": "label",
+          "Value": "app.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qsTm9E9ijwfHFILnBGbPE7rq4UZ4H91hgVFOUtpYOfo="
+        }
+      ]
+    },
+    {
+      "Route": "app.i1edb6rlo7.js.br",
+      "AssetFile": "C:\\Users\\laptop\\source\\repos\\GoodsManagement\\obj\\Release\\net9.0\\compressed\\publish\\dy0ygmz9xi-i1edb6rlo7.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1242"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/FGFMw8SF2iWJzJYQZWpq+GX29S4L3s1M45ktq8QAF4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Mar 2025 08:05:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "i1edb6rlo7"
+        },
+        {
+          "Name": "label",
+          "Value": "app.js.br"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/FGFMw8SF2iWJzJYQZWpq+GX29S4L3s1M45ktq8QAF4="
+        }
+      ]
+    },
+    {
+      "Route": "app.i1edb6rlo7.js.gz",
+      "AssetFile": "C:\\Users\\laptop\\source\\repos\\GoodsManagement\\obj\\Release\\net9.0\\compressed\\dy0ygmz9xi-i1edb6rlo7.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1481"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"q3eRBHhzNC3UobOSnD86/ZxlM8z+Jey1DnQoe2buPP0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Mar 2025 08:05:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "i1edb6rlo7"
+        },
+        {
+          "Name": "label",
+          "Value": "app.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-q3eRBHhzNC3UobOSnD86/ZxlM8z+Jey1DnQoe2buPP0="
+        }
+      ]
+    },
+    {
+      "Route": "app.js",
+      "AssetFile": "C:\\Users\\laptop\\source\\repos\\GoodsManagement\\obj\\Release\\net9.0\\compressed\\dy0ygmz9xi-i1edb6rlo7.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000674763833"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1481"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"q3eRBHhzNC3UobOSnD86/ZxlM8z+Jey1DnQoe2buPP0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Mar 2025 08:05:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"qsTm9E9ijwfHFILnBGbPE7rq4UZ4H91hgVFOUtpYOfo=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qsTm9E9ijwfHFILnBGbPE7rq4UZ4H91hgVFOUtpYOfo="
+        }
+      ]
+    },
+    {
+      "Route": "app.js",
+      "AssetFile": "C:\\Users\\laptop\\source\\repos\\GoodsManagement\\obj\\Release\\net9.0\\compressed\\publish\\dy0ygmz9xi-i1edb6rlo7.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000804505229"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1242"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/FGFMw8SF2iWJzJYQZWpq+GX29S4L3s1M45ktq8QAF4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Mar 2025 08:05:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"qsTm9E9ijwfHFILnBGbPE7rq4UZ4H91hgVFOUtpYOfo=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qsTm9E9ijwfHFILnBGbPE7rq4UZ4H91hgVFOUtpYOfo="
+        }
+      ]
+    },
+    {
+      "Route": "app.js",
+      "AssetFile": "C:\\Users\\laptop\\source\\repos\\GoodsManagement\\wwwroot\\app.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5888"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qsTm9E9ijwfHFILnBGbPE7rq4UZ4H91hgVFOUtpYOfo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Mar 2025 08:05:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qsTm9E9ijwfHFILnBGbPE7rq4UZ4H91hgVFOUtpYOfo="
+        }
+      ]
+    },
+    {
+      "Route": "app.js.br",
+      "AssetFile": "C:\\Users\\laptop\\source\\repos\\GoodsManagement\\obj\\Release\\net9.0\\compressed\\publish\\dy0ygmz9xi-i1edb6rlo7.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1242"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/FGFMw8SF2iWJzJYQZWpq+GX29S4L3s1M45ktq8QAF4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Mar 2025 08:05:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/FGFMw8SF2iWJzJYQZWpq+GX29S4L3s1M45ktq8QAF4="
+        }
+      ]
+    },
+    {
+      "Route": "app.js.gz",
+      "AssetFile": "C:\\Users\\laptop\\source\\repos\\GoodsManagement\\obj\\Release\\net9.0\\compressed\\dy0ygmz9xi-i1edb6rlo7.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1481"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"q3eRBHhzNC3UobOSnD86/ZxlM8z+Jey1DnQoe2buPP0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Mar 2025 08:05:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-q3eRBHhzNC3UobOSnD86/ZxlM8z+Jey1DnQoe2buPP0="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\laptop\\source\\repos\\GoodsManagement\\obj\\Release\\net9.0\\compressed\\a0joakjdsj-ubvhlkj8og.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001522070015"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "656"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aeZDjUlYT7V6omp2OAGnzmzjVYO5PYl/Tkr9t9emrtA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Mar 2025 07:40:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"JhKc8Psb6GLDVkN092GgQQLulp+PAIe23snpwvO01w4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JhKc8Psb6GLDVkN092GgQQLulp+PAIe23snpwvO01w4="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\laptop\\source\\repos\\GoodsManagement\\obj\\Release\\net9.0\\compressed\\publish\\a0joakjdsj-ubvhlkj8og.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.002197802198"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "454"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1sHyXkizC9gaXkOhxUQYSvK3BeSYjYgC8cS2hhO53nk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Mar 2025 07:40:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"JhKc8Psb6GLDVkN092GgQQLulp+PAIe23snpwvO01w4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JhKc8Psb6GLDVkN092GgQQLulp+PAIe23snpwvO01w4="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\laptop\\source\\repos\\GoodsManagement\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1533"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JhKc8Psb6GLDVkN092GgQQLulp+PAIe23snpwvO01w4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Mar 2025 07:40:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JhKc8Psb6GLDVkN092GgQQLulp+PAIe23snpwvO01w4="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.br",
+      "AssetFile": "C:\\Users\\laptop\\source\\repos\\GoodsManagement\\obj\\Release\\net9.0\\compressed\\publish\\a0joakjdsj-ubvhlkj8og.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "454"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1sHyXkizC9gaXkOhxUQYSvK3BeSYjYgC8cS2hhO53nk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Mar 2025 07:40:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1sHyXkizC9gaXkOhxUQYSvK3BeSYjYgC8cS2hhO53nk="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "C:\\Users\\laptop\\source\\repos\\GoodsManagement\\obj\\Release\\net9.0\\compressed\\a0joakjdsj-ubvhlkj8og.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "656"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aeZDjUlYT7V6omp2OAGnzmzjVYO5PYl/Tkr9t9emrtA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Mar 2025 07:40:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aeZDjUlYT7V6omp2OAGnzmzjVYO5PYl/Tkr9t9emrtA="
+        }
+      ]
+    },
+    {
+      "Route": "index.ubvhlkj8og.html",
+      "AssetFile": "C:\\Users\\laptop\\source\\repos\\GoodsManagement\\obj\\Release\\net9.0\\compressed\\a0joakjdsj-ubvhlkj8og.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001522070015"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "656"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aeZDjUlYT7V6omp2OAGnzmzjVYO5PYl/Tkr9t9emrtA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Mar 2025 07:40:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"JhKc8Psb6GLDVkN092GgQQLulp+PAIe23snpwvO01w4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ubvhlkj8og"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JhKc8Psb6GLDVkN092GgQQLulp+PAIe23snpwvO01w4="
+        }
+      ]
+    },
+    {
+      "Route": "index.ubvhlkj8og.html",
+      "AssetFile": "C:\\Users\\laptop\\source\\repos\\GoodsManagement\\obj\\Release\\net9.0\\compressed\\publish\\a0joakjdsj-ubvhlkj8og.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.002197802198"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "454"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1sHyXkizC9gaXkOhxUQYSvK3BeSYjYgC8cS2hhO53nk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Mar 2025 07:40:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"JhKc8Psb6GLDVkN092GgQQLulp+PAIe23snpwvO01w4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ubvhlkj8og"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JhKc8Psb6GLDVkN092GgQQLulp+PAIe23snpwvO01w4="
+        }
+      ]
+    },
+    {
+      "Route": "index.ubvhlkj8og.html",
+      "AssetFile": "C:\\Users\\laptop\\source\\repos\\GoodsManagement\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1533"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JhKc8Psb6GLDVkN092GgQQLulp+PAIe23snpwvO01w4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Mar 2025 07:40:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ubvhlkj8og"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JhKc8Psb6GLDVkN092GgQQLulp+PAIe23snpwvO01w4="
+        }
+      ]
+    },
+    {
+      "Route": "index.ubvhlkj8og.html.br",
+      "AssetFile": "C:\\Users\\laptop\\source\\repos\\GoodsManagement\\obj\\Release\\net9.0\\compressed\\publish\\a0joakjdsj-ubvhlkj8og.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "454"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1sHyXkizC9gaXkOhxUQYSvK3BeSYjYgC8cS2hhO53nk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Mar 2025 07:40:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ubvhlkj8og"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.br"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1sHyXkizC9gaXkOhxUQYSvK3BeSYjYgC8cS2hhO53nk="
+        }
+      ]
+    },
+    {
+      "Route": "index.ubvhlkj8og.html.gz",
+      "AssetFile": "C:\\Users\\laptop\\source\\repos\\GoodsManagement\\obj\\Release\\net9.0\\compressed\\a0joakjdsj-ubvhlkj8og.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "656"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aeZDjUlYT7V6omp2OAGnzmzjVYO5PYl/Tkr9t9emrtA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Mar 2025 07:40:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ubvhlkj8og"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aeZDjUlYT7V6omp2OAGnzmzjVYO5PYl/Tkr9t9emrtA="
+        }
+      ]
+    },
+    {
+      "Route": "styles.css",
+      "AssetFile": "C:\\Users\\laptop\\source\\repos\\GoodsManagement\\obj\\Release\\net9.0\\compressed\\publish\\uc6rymsfig-ezaov6hku1.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.001782531194"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "560"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"beU89yGn52fYuTm9whUA4VGp7ZEdprGkVnFXEhcYnM0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Mar 2025 01:36:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Zksl0xTapaH2lzSiWKSEQ4g3CAKCIGhxWFSAXHt2IPA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Zksl0xTapaH2lzSiWKSEQ4g3CAKCIGhxWFSAXHt2IPA="
+        }
+      ]
+    },
+    {
+      "Route": "styles.css",
+      "AssetFile": "C:\\Users\\laptop\\source\\repos\\GoodsManagement\\obj\\Release\\net9.0\\compressed\\uc6rymsfig-ezaov6hku1.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001422475107"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "702"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eGb0MmXcdfbc5qBwv1HRy1GBmZDdzDJIBFe8cNj8ALY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Mar 2025 01:36:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Zksl0xTapaH2lzSiWKSEQ4g3CAKCIGhxWFSAXHt2IPA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Zksl0xTapaH2lzSiWKSEQ4g3CAKCIGhxWFSAXHt2IPA="
+        }
+      ]
+    },
+    {
+      "Route": "styles.css",
+      "AssetFile": "C:\\Users\\laptop\\source\\repos\\GoodsManagement\\wwwroot\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1862"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Zksl0xTapaH2lzSiWKSEQ4g3CAKCIGhxWFSAXHt2IPA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Mar 2025 01:36:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Zksl0xTapaH2lzSiWKSEQ4g3CAKCIGhxWFSAXHt2IPA="
+        }
+      ]
+    },
+    {
+      "Route": "styles.css.br",
+      "AssetFile": "C:\\Users\\laptop\\source\\repos\\GoodsManagement\\obj\\Release\\net9.0\\compressed\\publish\\uc6rymsfig-ezaov6hku1.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "560"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"beU89yGn52fYuTm9whUA4VGp7ZEdprGkVnFXEhcYnM0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Mar 2025 01:36:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-beU89yGn52fYuTm9whUA4VGp7ZEdprGkVnFXEhcYnM0="
+        }
+      ]
+    },
+    {
+      "Route": "styles.css.gz",
+      "AssetFile": "C:\\Users\\laptop\\source\\repos\\GoodsManagement\\obj\\Release\\net9.0\\compressed\\uc6rymsfig-ezaov6hku1.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "702"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eGb0MmXcdfbc5qBwv1HRy1GBmZDdzDJIBFe8cNj8ALY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Mar 2025 01:36:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eGb0MmXcdfbc5qBwv1HRy1GBmZDdzDJIBFe8cNj8ALY="
+        }
+      ]
+    },
+    {
+      "Route": "styles.ezaov6hku1.css",
+      "AssetFile": "C:\\Users\\laptop\\source\\repos\\GoodsManagement\\obj\\Release\\net9.0\\compressed\\publish\\uc6rymsfig-ezaov6hku1.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.001782531194"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "560"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"beU89yGn52fYuTm9whUA4VGp7ZEdprGkVnFXEhcYnM0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Mar 2025 01:36:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Zksl0xTapaH2lzSiWKSEQ4g3CAKCIGhxWFSAXHt2IPA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ezaov6hku1"
+        },
+        {
+          "Name": "label",
+          "Value": "styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Zksl0xTapaH2lzSiWKSEQ4g3CAKCIGhxWFSAXHt2IPA="
+        }
+      ]
+    },
+    {
+      "Route": "styles.ezaov6hku1.css",
+      "AssetFile": "C:\\Users\\laptop\\source\\repos\\GoodsManagement\\obj\\Release\\net9.0\\compressed\\uc6rymsfig-ezaov6hku1.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001422475107"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "702"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eGb0MmXcdfbc5qBwv1HRy1GBmZDdzDJIBFe8cNj8ALY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Mar 2025 01:36:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Zksl0xTapaH2lzSiWKSEQ4g3CAKCIGhxWFSAXHt2IPA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ezaov6hku1"
+        },
+        {
+          "Name": "label",
+          "Value": "styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Zksl0xTapaH2lzSiWKSEQ4g3CAKCIGhxWFSAXHt2IPA="
+        }
+      ]
+    },
+    {
+      "Route": "styles.ezaov6hku1.css",
+      "AssetFile": "C:\\Users\\laptop\\source\\repos\\GoodsManagement\\wwwroot\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1862"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Zksl0xTapaH2lzSiWKSEQ4g3CAKCIGhxWFSAXHt2IPA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Mar 2025 01:36:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ezaov6hku1"
+        },
+        {
+          "Name": "label",
+          "Value": "styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Zksl0xTapaH2lzSiWKSEQ4g3CAKCIGhxWFSAXHt2IPA="
+        }
+      ]
+    },
+    {
+      "Route": "styles.ezaov6hku1.css.br",
+      "AssetFile": "C:\\Users\\laptop\\source\\repos\\GoodsManagement\\obj\\Release\\net9.0\\compressed\\publish\\uc6rymsfig-ezaov6hku1.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "560"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"beU89yGn52fYuTm9whUA4VGp7ZEdprGkVnFXEhcYnM0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Mar 2025 01:36:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ezaov6hku1"
+        },
+        {
+          "Name": "label",
+          "Value": "styles.css.br"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-beU89yGn52fYuTm9whUA4VGp7ZEdprGkVnFXEhcYnM0="
+        }
+      ]
+    },
+    {
+      "Route": "styles.ezaov6hku1.css.gz",
+      "AssetFile": "C:\\Users\\laptop\\source\\repos\\GoodsManagement\\obj\\Release\\net9.0\\compressed\\uc6rymsfig-ezaov6hku1.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "702"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eGb0MmXcdfbc5qBwv1HRy1GBmZDdzDJIBFe8cNj8ALY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Mar 2025 01:36:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ezaov6hku1"
+        },
+        {
+          "Name": "label",
+          "Value": "styles.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eGb0MmXcdfbc5qBwv1HRy1GBmZDdzDJIBFe8cNj8ALY="
+        }
+      ]
+    }
+  ]
+}

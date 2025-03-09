@@ -1,0 +1,6 @@
+C:\Users\laptop\source\repos\GoodsManagement\wwwroot\index.html
+C:\Users\laptop\source\repos\GoodsManagement\wwwroot\app.js
+C:\Users\laptop\source\repos\GoodsManagement\wwwroot\styles.css
+wwwroot\app.js
+wwwroot\index.html
+wwwroot\styles.css

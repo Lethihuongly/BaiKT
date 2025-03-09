@@ -1,0 +1,102 @@
+﻿/* Cài đặt chung */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 20px;
+}
+
+/* Container chính */
+.container {
+    max-width: 800px;
+    margin: auto;
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+/* Tiêu đề */
+h1 {
+    color: #333;
+}
+
+/* Form thêm/sửa hàng hóa */
+.form-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+    .form-container input {
+        padding: 8px;
+        width: 150px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+    }
+
+    .form-container button {
+        padding: 8px 12px;
+        background-color: #28a745;
+        color: white;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        transition: 0.3s;
+    }
+
+        .form-container button:hover {
+            background-color: #218838;
+        }
+
+/* Bảng dữ liệu */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: center;
+}
+
+th {
+    background-color: #007bff;
+    color: white;
+}
+
+td[contenteditable="true"] {
+    background-color: #f8f9fa;
+    cursor: pointer;
+}
+
+    td[contenteditable="true"]:focus {
+        background-color: #e9ecef;
+    }
+
+/* Nút sửa và xóa */
+button {
+    padding: 5px 8px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+    button:hover {
+        opacity: 0.8;
+    }
+
+    button.edit {
+        background-color: #ffc107;
+        color: black;
+    }
+
+    button.delete {
+        background-color: #dc3545;
+        color: white;
+    }
