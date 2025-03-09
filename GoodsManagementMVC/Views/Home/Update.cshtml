@@ -1,0 +1,29 @@
+﻿@model Cau4.Models.HangHoa
+
+@{
+    ViewData["Title"] = "Cập nhật Ghi Chú";
+}
+
+<h2>Cập nhật Ghi Chú</h2>
+
+<form asp-action="UpdateNote" method="post">
+    <input type="hidden" asp-for="MaHangHoa" />
+    <div class="form-group">
+        <label asp-for="GhiChu" class="control-label"></label>
+        <input asp-for="GhiChu" class="form-control" />
+        <span asp-validation-for="GhiChu" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <input type="submit" value="Cập nhật" class="btn btn-primary" />
+    </div>
+</form>
+
+<div>
+    <a asp-action="Index">Quay lại danh sách</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

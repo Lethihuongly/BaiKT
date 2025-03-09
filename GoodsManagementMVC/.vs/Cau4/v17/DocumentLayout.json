@@ -1,0 +1,523 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\laptop\\source\\repos\\GoodsManagementMVC\\GoodsManagementMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE47C2E-7967-4B22-9E24-539B56B7768C}|Cau4.csproj|c:\\users\\laptop\\source\\repos\\goodsmanagementmvc\\goodsmanagementmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5EE47C2E-7967-4B22-9E24-539B56B7768C}|Cau4.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE47C2E-7967-4B22-9E24-539B56B7768C}|Cau4.csproj|c:\\users\\laptop\\source\\repos\\goodsmanagementmvc\\goodsmanagementmvc\\wwwroot\\controllers\\hanghoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EE47C2E-7967-4B22-9E24-539B56B7768C}|Cau4.csproj|solutionrelative:wwwroot\\controllers\\hanghoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE47C2E-7967-4B22-9E24-539B56B7768C}|Cau4.csproj|c:\\users\\laptop\\source\\repos\\goodsmanagementmvc\\goodsmanagementmvc\\controllers\\hanghoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EE47C2E-7967-4B22-9E24-539B56B7768C}|Cau4.csproj|solutionrelative:controllers\\hanghoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE47C2E-7967-4B22-9E24-539B56B7768C}|Cau4.csproj|c:\\users\\laptop\\source\\repos\\goodsmanagementmvc\\goodsmanagementmvc\\migrations\\20250307155218_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EE47C2E-7967-4B22-9E24-539B56B7768C}|Cau4.csproj|solutionrelative:migrations\\20250307155218_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE47C2E-7967-4B22-9E24-539B56B7768C}|Cau4.csproj|c:\\users\\laptop\\source\\repos\\goodsmanagementmvc\\goodsmanagementmvc\\migrations\\goodsdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EE47C2E-7967-4B22-9E24-539B56B7768C}|Cau4.csproj|solutionrelative:migrations\\goodsdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE47C2E-7967-4B22-9E24-539B56B7768C}|Cau4.csproj|c:\\users\\laptop\\source\\repos\\goodsmanagementmvc\\goodsmanagementmvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EE47C2E-7967-4B22-9E24-539B56B7768C}|Cau4.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE47C2E-7967-4B22-9E24-539B56B7768C}|Cau4.csproj|c:\\users\\laptop\\source\\repos\\goodsmanagementmvc\\goodsmanagementmvc\\models\\goodsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EE47C2E-7967-4B22-9E24-539B56B7768C}|Cau4.csproj|solutionrelative:models\\goodsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE47C2E-7967-4B22-9E24-539B56B7768C}|Cau4.csproj|c:\\users\\laptop\\source\\repos\\goodsmanagementmvc\\goodsmanagementmvc\\models\\hanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EE47C2E-7967-4B22-9E24-539B56B7768C}|Cau4.csproj|solutionrelative:models\\hanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE47C2E-7967-4B22-9E24-539B56B7768C}|Cau4.csproj|c:\\users\\laptop\\source\\repos\\goodsmanagementmvc\\goodsmanagementmvc\\views\\hanghoa\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EE47C2E-7967-4B22-9E24-539B56B7768C}|Cau4.csproj|solutionrelative:views\\hanghoa\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE47C2E-7967-4B22-9E24-539B56B7768C}|Cau4.csproj|c:\\users\\laptop\\source\\repos\\goodsmanagementmvc\\goodsmanagementmvc\\views\\hanghoa\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EE47C2E-7967-4B22-9E24-539B56B7768C}|Cau4.csproj|solutionrelative:views\\hanghoa\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE47C2E-7967-4B22-9E24-539B56B7768C}|Cau4.csproj|c:\\users\\laptop\\source\\repos\\goodsmanagementmvc\\goodsmanagementmvc\\views\\hanghoa\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EE47C2E-7967-4B22-9E24-539B56B7768C}|Cau4.csproj|solutionrelative:views\\hanghoa\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE47C2E-7967-4B22-9E24-539B56B7768C}|Cau4.csproj|c:\\users\\laptop\\source\\repos\\goodsmanagementmvc\\goodsmanagementmvc\\views\\hanghoa\\updatenote.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EE47C2E-7967-4B22-9E24-539B56B7768C}|Cau4.csproj|solutionrelative:views\\hanghoa\\updatenote.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE47C2E-7967-4B22-9E24-539B56B7768C}|Cau4.csproj|c:\\users\\laptop\\source\\repos\\goodsmanagementmvc\\goodsmanagementmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EE47C2E-7967-4B22-9E24-539B56B7768C}|Cau4.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE47C2E-7967-4B22-9E24-539B56B7768C}|Cau4.csproj|c:\\users\\laptop\\source\\repos\\goodsmanagementmvc\\goodsmanagementmvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EE47C2E-7967-4B22-9E24-539B56B7768C}|Cau4.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE47C2E-7967-4B22-9E24-539B56B7768C}|Cau4.csproj|c:\\users\\laptop\\source\\repos\\goodsmanagementmvc\\goodsmanagementmvc\\views\\home\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EE47C2E-7967-4B22-9E24-539B56B7768C}|Cau4.csproj|solutionrelative:views\\home\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE47C2E-7967-4B22-9E24-539B56B7768C}|Cau4.csproj|c:\\users\\laptop\\source\\repos\\goodsmanagementmvc\\goodsmanagementmvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EE47C2E-7967-4B22-9E24-539B56B7768C}|Cau4.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE47C2E-7967-4B22-9E24-539B56B7768C}|Cau4.csproj|c:\\users\\laptop\\source\\repos\\goodsmanagementmvc\\goodsmanagementmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EE47C2E-7967-4B22-9E24-539B56B7768C}|Cau4.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE47C2E-7967-4B22-9E24-539B56B7768C}|Cau4.csproj|c:\\users\\laptop\\source\\repos\\goodsmanagementmvc\\goodsmanagementmvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EE47C2E-7967-4B22-9E24-539B56B7768C}|Cau4.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE47C2E-7967-4B22-9E24-539B56B7768C}|Cau4.csproj|c:\\users\\laptop\\source\\repos\\goodsmanagementmvc\\goodsmanagementmvc\\views\\hanghoa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EE47C2E-7967-4B22-9E24-539B56B7768C}|Cau4.csproj|solutionrelative:views\\hanghoa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE47C2E-7967-4B22-9E24-539B56B7768C}|Cau4.csproj|c:\\users\\laptop\\source\\repos\\goodsmanagementmvc\\goodsmanagementmvc\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{5EE47C2E-7967-4B22-9E24-539B56B7768C}|Cau4.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE47C2E-7967-4B22-9E24-539B56B7768C}|Cau4.csproj|c:\\users\\laptop\\source\\repos\\goodsmanagementmvc\\goodsmanagementmvc\\wwwroot\\lib\\jquery\\license.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5EE47C2E-7967-4B22-9E24-539B56B7768C}|Cau4.csproj|solutionrelative:wwwroot\\lib\\jquery\\license.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE47C2E-7967-4B22-9E24-539B56B7768C}|Cau4.csproj|c:\\users\\laptop\\source\\repos\\goodsmanagementmvc\\goodsmanagementmvc\\wwwroot\\lib\\jquery\\dist\\jquery.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{5EE47C2E-7967-4B22-9E24-539B56B7768C}|Cau4.csproj|solutionrelative:wwwroot\\lib\\jquery\\dist\\jquery.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE47C2E-7967-4B22-9E24-539B56B7768C}|Cau4.csproj|c:\\users\\laptop\\source\\repos\\goodsmanagementmvc\\goodsmanagementmvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5EE47C2E-7967-4B22-9E24-539B56B7768C}|Cau4.csproj|solutionrelative:wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE47C2E-7967-4B22-9E24-539B56B7768C}|Cau4.csproj|c:\\users\\laptop\\source\\repos\\goodsmanagementmvc\\goodsmanagementmvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5EE47C2E-7967-4B22-9E24-539B56B7768C}|Cau4.csproj|solutionrelative:wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE47C2E-7967-4B22-9E24-539B56B7768C}|Cau4.csproj|c:\\users\\laptop\\source\\repos\\goodsmanagementmvc\\goodsmanagementmvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5EE47C2E-7967-4B22-9E24-539B56B7768C}|Cau4.csproj|solutionrelative:wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE47C2E-7967-4B22-9E24-539B56B7768C}|Cau4.csproj|c:\\users\\laptop\\source\\repos\\goodsmanagementmvc\\goodsmanagementmvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5EE47C2E-7967-4B22-9E24-539B56B7768C}|Cau4.csproj|solutionrelative:wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE47C2E-7967-4B22-9E24-539B56B7768C}|Cau4.csproj|c:\\users\\laptop\\source\\repos\\goodsmanagementmvc\\goodsmanagementmvc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5EE47C2E-7967-4B22-9E24-539B56B7768C}|Cau4.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE47C2E-7967-4B22-9E24-539B56B7768C}|GoodsManagementMVC.csproj|c:\\users\\laptop\\source\\repos\\goodsmanagementmvc\\goodsmanagementmvc\\goodsmanagementmvc.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{5EE47C2E-7967-4B22-9E24-539B56B7768C}|GoodsManagementMVC.csproj|solutionrelative:goodsmanagementmvc.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\laptop\\source\\repos\\GoodsManagementMVC\\GoodsManagementMVC\\Views\\HangHoa\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\HangHoa\\Create.cshtml",
+              "ToolTip": "C:\\Users\\laptop\\source\\repos\\GoodsManagementMVC\\GoodsManagementMVC\\Views\\HangHoa\\Create.cshtml",
+              "RelativeToolTip": "Views\\HangHoa\\Create.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAIBJwAAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-07T16:10:58.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HangHoa.cs",
+              "DocumentMoniker": "C:\\Users\\laptop\\source\\repos\\GoodsManagementMVC\\GoodsManagementMVC\\Models\\HangHoa.cs",
+              "RelativeDocumentMoniker": "Models\\HangHoa.cs",
+              "ToolTip": "C:\\Users\\laptop\\source\\repos\\GoodsManagementMVC\\GoodsManagementMVC\\Models\\HangHoa.cs",
+              "RelativeToolTip": "Models\\HangHoa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T15:41:02.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GoodsDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\laptop\\source\\repos\\GoodsManagementMVC\\GoodsManagementMVC\\Models\\GoodsDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\GoodsDbContext.cs",
+              "ToolTip": "C:\\Users\\laptop\\source\\repos\\GoodsManagementMVC\\GoodsManagementMVC\\Models\\GoodsDbContext.cs",
+              "RelativeToolTip": "Models\\GoodsDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T15:41:38.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\laptop\\source\\repos\\GoodsManagementMVC\\GoodsManagementMVC\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\laptop\\source\\repos\\GoodsManagementMVC\\GoodsManagementMVC\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T08:47:33.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\laptop\\source\\repos\\GoodsManagementMVC\\GoodsManagementMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\laptop\\source\\repos\\GoodsManagementMVC\\GoodsManagementMVC\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-07T15:46:50.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a9b7e51-aa16-11d0-a8c5-00a0c921a4d2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\laptop\\source\\repos\\GoodsManagementMVC\\GoodsManagementMVC\\Views\\HangHoa\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\HangHoa\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\laptop\\source\\repos\\GoodsManagementMVC\\GoodsManagementMVC\\Views\\HangHoa\\Delete.cshtml",
+              "RelativeToolTip": "Views\\HangHoa\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-07T16:12:07.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HangHoaController.cs",
+              "DocumentMoniker": "C:\\Users\\laptop\\source\\repos\\GoodsManagementMVC\\GoodsManagementMVC\\Controllers\\HangHoaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HangHoaController.cs",
+              "ToolTip": "C:\\Users\\laptop\\source\\repos\\GoodsManagementMVC\\GoodsManagementMVC\\Controllers\\HangHoaController.cs",
+              "RelativeToolTip": "Controllers\\HangHoaController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T11:02:48.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HangHoaController.cs",
+              "DocumentMoniker": "C:\\Users\\laptop\\source\\repos\\GoodsManagementMVC\\GoodsManagementMVC\\wwwroot\\Controllers\\HangHoaController.cs",
+              "RelativeDocumentMoniker": "wwwroot\\Controllers\\HangHoaController.cs",
+              "ToolTip": "C:\\Users\\laptop\\source\\repos\\GoodsManagementMVC\\GoodsManagementMVC\\wwwroot\\Controllers\\HangHoaController.cs",
+              "RelativeToolTip": "wwwroot\\Controllers\\HangHoaController.cs",
+              "ViewState": "AgIAAJYAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T11:02:54.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GoodsDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\laptop\\source\\repos\\GoodsManagementMVC\\GoodsManagementMVC\\Migrations\\GoodsDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\GoodsDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\laptop\\source\\repos\\GoodsManagementMVC\\GoodsManagementMVC\\Migrations\\GoodsDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\GoodsDbContextModelSnapshot.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAuwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T08:47:41.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20250307155218_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\laptop\\source\\repos\\GoodsManagementMVC\\GoodsManagementMVC\\Migrations\\20250307155218_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250307155218_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\laptop\\source\\repos\\GoodsManagementMVC\\GoodsManagementMVC\\Migrations\\20250307155218_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20250307155218_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T15:52:18.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\laptop\\source\\repos\\GoodsManagementMVC\\GoodsManagementMVC\\Views\\HangHoa\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\HangHoa\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\laptop\\source\\repos\\GoodsManagementMVC\\GoodsManagementMVC\\Views\\HangHoa\\Edit.cshtml",
+              "RelativeToolTip": "Views\\HangHoa\\Edit.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAIBJwBUAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-07T16:11:36.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UpdateNote.cshtml",
+              "DocumentMoniker": "C:\\Users\\laptop\\source\\repos\\GoodsManagementMVC\\GoodsManagementMVC\\Views\\HangHoa\\UpdateNote.cshtml",
+              "RelativeDocumentMoniker": "Views\\HangHoa\\UpdateNote.cshtml",
+              "ToolTip": "C:\\Users\\laptop\\source\\repos\\GoodsManagementMVC\\GoodsManagementMVC\\Views\\HangHoa\\UpdateNote.cshtml",
+              "RelativeToolTip": "Views\\HangHoa\\UpdateNote.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAIBJwAAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-07T16:12:42.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\laptop\\source\\repos\\GoodsManagementMVC\\GoodsManagementMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\laptop\\source\\repos\\GoodsManagementMVC\\GoodsManagementMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-07T15:55:03.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\laptop\\source\\repos\\GoodsManagementMVC\\GoodsManagementMVC\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\laptop\\source\\repos\\GoodsManagementMVC\\GoodsManagementMVC\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-09T08:53:33.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\laptop\\source\\repos\\GoodsManagementMVC\\GoodsManagementMVC\\Views\\Home\\Update.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Update.cshtml",
+              "ToolTip": "C:\\Users\\laptop\\source\\repos\\GoodsManagementMVC\\GoodsManagementMVC\\Views\\Home\\Update.cshtml",
+              "RelativeToolTip": "Views\\Home\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-07T15:59:50.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\laptop\\source\\repos\\GoodsManagementMVC\\GoodsManagementMVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\laptop\\source\\repos\\GoodsManagementMVC\\GoodsManagementMVC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-09T08:53:39.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\laptop\\source\\repos\\GoodsManagementMVC\\GoodsManagementMVC\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\laptop\\source\\repos\\GoodsManagementMVC\\GoodsManagementMVC\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T15:45:52.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\laptop\\source\\repos\\GoodsManagementMVC\\GoodsManagementMVC\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\laptop\\source\\repos\\GoodsManagementMVC\\GoodsManagementMVC\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-09T08:53:42.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\laptop\\source\\repos\\GoodsManagementMVC\\GoodsManagementMVC\\Views\\HangHoa\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\HangHoa\\Index.cshtml",
+              "ToolTip": "C:\\Users\\laptop\\source\\repos\\GoodsManagementMVC\\GoodsManagementMVC\\Views\\HangHoa\\Index.cshtml",
+              "RelativeToolTip": "Views\\HangHoa\\Index.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAIBJwBcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-07T16:10:24.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\laptop\\source\\repos\\GoodsManagementMVC\\GoodsManagementMVC\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\laptop\\source\\repos\\GoodsManagementMVC\\GoodsManagementMVC\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-09T08:47:54.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LICENSE.txt",
+              "DocumentMoniker": "C:\\Users\\laptop\\source\\repos\\GoodsManagementMVC\\GoodsManagementMVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\jquery\\LICENSE.txt",
+              "ToolTip": "C:\\Users\\laptop\\source\\repos\\GoodsManagementMVC\\GoodsManagementMVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
+              "RelativeToolTip": "wwwroot\\lib\\jquery\\LICENSE.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-03-09T08:51:29.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "jquery.js",
+              "DocumentMoniker": "C:\\Users\\laptop\\source\\repos\\GoodsManagementMVC\\GoodsManagementMVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\jquery\\dist\\jquery.js",
+              "ToolTip": "C:\\Users\\laptop\\source\\repos\\GoodsManagementMVC\\GoodsManagementMVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+              "RelativeToolTip": "wwwroot\\lib\\jquery\\dist\\jquery.js",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-09T08:50:54.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "bootstrap-utilities.css",
+              "DocumentMoniker": "C:\\Users\\laptop\\source\\repos\\GoodsManagementMVC\\GoodsManagementMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+              "ToolTip": "C:\\Users\\laptop\\source\\repos\\GoodsManagementMVC\\GoodsManagementMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+              "RelativeToolTip": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-09T08:50:00.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "bootstrap-reboot.css",
+              "DocumentMoniker": "C:\\Users\\laptop\\source\\repos\\GoodsManagementMVC\\GoodsManagementMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+              "ToolTip": "C:\\Users\\laptop\\source\\repos\\GoodsManagementMVC\\GoodsManagementMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+              "RelativeToolTip": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-09T08:49:55.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "bootstrap-grid.css",
+              "DocumentMoniker": "C:\\Users\\laptop\\source\\repos\\GoodsManagementMVC\\GoodsManagementMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+              "ToolTip": "C:\\Users\\laptop\\source\\repos\\GoodsManagementMVC\\GoodsManagementMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+              "RelativeToolTip": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+              "ViewState": "AgIAAEgAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-09T08:49:44.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "C:\\Users\\laptop\\source\\repos\\GoodsManagementMVC\\GoodsManagementMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ToolTip": "C:\\Users\\laptop\\source\\repos\\GoodsManagementMVC\\GoodsManagementMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeToolTip": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-09T08:49:40.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\laptop\\source\\repos\\GoodsManagementMVC\\GoodsManagementMVC\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\laptop\\source\\repos\\GoodsManagementMVC\\GoodsManagementMVC\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-09T08:49:35.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Cau4",
+              "DocumentMoniker": "C:\\Users\\laptop\\source\\repos\\GoodsManagementMVC\\GoodsManagementMVC\\GoodsManagementMVC.csproj",
+              "RelativeDocumentMoniker": "GoodsManagementMVC.csproj",
+              "ToolTip": "C:\\Users\\laptop\\source\\repos\\GoodsManagementMVC\\GoodsManagementMVC\\GoodsManagementMVC.csproj",
+              "RelativeToolTip": "GoodsManagementMVC.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-09T08:49:29.198Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

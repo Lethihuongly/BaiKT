@@ -1,0 +1,44 @@
+﻿@model Cau4.Models.HangHoa
+
+@{
+    ViewData["Title"] = "Xóa Hàng Hóa";
+}
+
+<h2>Xóa Hàng Hóa</h2>
+
+<h3>Bạn có chắc muốn xóa không?</h3>
+<div>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.MaHangHoa)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.MaHangHoa)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.TenHangHoa)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.TenHangHoa)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.SoLuong)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.SoLuong)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.GhiChu)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.GhiChu)
+        </dd>
+    </dl>
+
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="MaHangHoa" />
+        <input type="submit" value="Xóa" class="btn btn-danger" /> |
+        <a asp-action="Index">Quay lại danh sách</a>
+    </form>
+</div>
